@@ -1,0 +1,6 @@
+{
+  "name": "Adro Korba HRMS & Labour Compliance",
+  "description": "Comprehensive enterprise HRMS, Manpower Deployment, and Statutory Labour Compliance Portal for Adro Korba industrial operations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
